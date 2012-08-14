@@ -1,0 +1,23 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: #a4a4a4 url(../img/footer.png) repeat;
+}
+
+#main {
+  background: #eee url(../img/bg-noise.png) repeat;
+  padding-bottom: 3em;
+
+  -webkit-box-shadow: 0px 0px 10px 0px #000;
+     -moz-box-shadow: 0px 0px 10px 0px #000;
+          box-shadow: 0px 0px 10px 0px #000;
+}
+
+footer {
+  padding-top: 2em;
+  color: #fff;
+}
+
