@@ -76,10 +76,8 @@ p, li {
 
 #navmenu ul li {
   display: inline-block;
-  height: 47px;
   padding: 0px;
   margin: 0px;
-  padding-top: 13px;
   text-align: center;
   margin-right: -5px;
   background-repeat: no-repeat;
@@ -88,66 +86,36 @@ p, li {
 }
 
 #navmenu ul li a {
+  display: block;
   color: #000;
+  padding-top: 13px;
 }
 
 #navmenu ul li a:hover {
   text-decoration: none;
 }
 
-#navmenu li#b01 {
-  background-image: url(../img/b_01.png);
-  width: 140px;
+.SLC {
+  background-image:url(../img/sprite.png);
+  background-repeat:no-repeat;
+  display:block;
+  /*text-indent:-99999px;*/
+  overflow:hidden;
 }
 
-#navmenu li#b01:hover {
-  background-image: url(../img/b_01_h.png);
-}
+.b_01{height:47px;width:140px;background-position:0 0;}
+.b_01:hover{height:47px;width:140px;background-position:-140px 0;}
+.b_02{height:45px;width:190px;background-position:0 -47px;}
+.b_02:hover{height:45px;width:190px;background-position:0 -92px;}
+.b_03{height:45px;width:203px;background-position:0 -137px;}
+.b_03:hover{height:45px;width:203px;background-position:0 -182px;}
+.b_04{height:46px;width:195px;background-position:0 -227px;}
+.b_04:hover{height:46px;width:195px;background-position:0 -273px;}
+.b_05{height:46px;width:139px;background-position:-203px -182px;}
+.b_05:hover{height:46px;width:139px;background-position:-203px -228px;}
+.b_06{height:43px;width:73px;background-position:-190px -47px;}
+.b_06:hover{height:43px;width:73px;background-position:-263px -47px;}
 
-#navmenu li#b02 {
-  background-image: url(../img/b_02.png);
-  width: 190px;
-}
-
-#navmenu li#b02:hover {
-  background-image: url(../img/b_02_h.png);
-}
-
-#navmenu li#b03 {
-  background-image: url(../img/b_03.png);
-  width: 203px;
-}
-
-#navmenu li#b03:hover {
-  background-image: url(../img/b_03_h.png);
-}
-
-#navmenu li#b04 {
-  background-image: url(../img/b_04.png);
-  width: 195px;
-}
-
-#navmenu li#b04:hover {
-  background-image: url(../img/b_04_h.png);
-}
-
-#navmenu li#b05 {
-  background-image: url(../img/b_05.png);
-  width: 139px;
-}
-
-#navmenu li#b05:hover {
-  background-image: url(../img/b_05_h.png);
-}
-
-#navmenu li#b06 {
-  background-image: url(../img/b_06.png);
-  width: 73px;
-}
-
-#navmenu li#b06:hover {
-  background-image: url(../img/b_06_h.png);
-}
 
 .section-title {
   background-image: url(../img/linie_rot.png);
