@@ -22,18 +22,11 @@ p, li {
   padding-top: 1em;
 }
 
-#header .container {
-width: 1178px; 
-padding-left: 238px;
-}
+/*#header .container {
+  width: 1178px; 
+  padding-left: 238px;
+}*/
 
-#header #stanze{
-float:left;
-}
-
-#mitmachen_badge {
-float:right;
-}
 
 #navmenu {
   background-color: white;
@@ -52,26 +45,35 @@ float:right;
   background-image: url(/img/05_03.png);
   background-repeat: repeat-x;
   background-position: center center;
+  height: 320px;
 }
 
-.join-bar img {
-  padding-top: 1em;
-  padding-bottom: 1em;
+.mitmachen {
+  position: absolute;
+  top: 0.5em;
+  right: 0.5em;
+  z-index: 1200;
+  width: 290px;
+  height: 180px;
 }
 
-.mitmachen_hover{
-	background-image:url(../img/mitmachen_sprite.png);
-	background-repeat:no-repeat;
-	display:block;
-	text-indent:-99999px;
-	overflow:hidden;
-	margin:auto;
+.mitmachen a, .join-bar a {
+	background-image: url(../img/mitmachen_sprite.png);
+	background-repeat: no-repeat;
+  width: 290px;
+  height: 180px;
+  display: inline-block;
+	/*text-indent: -99999px;*/
+	/*overflow: hidden;*/
+  /*margin: auto;*/
 }
 
-._05_02 {height:329px;width:440px;background-position:0 0;}
-._05_02:hover {height:329px;width:440px;background-position:0 -329px;}
-.mitmachen_badge {height:180px;width:282px;background-position:-440px 0;}
-.mitmachen_badge:hover {height:180px;width:282px;background-position:-440px -329px;}
+.join-bar a._05_02 {height:329px;width:440px;background-position:0 0;}
+.join-bar a._05_02:hover {height:329px;width:440px;background-position:0 -329px;}
+
+.mitmachen a {height:180px;width:282px;background-position:-440px -0px;}
+.mitmachen a:hover {height:180px;width:282px;background-position:-440px -329px;}
+
 
 
 #navmenu .container {
