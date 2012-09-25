@@ -21,22 +21,13 @@
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script src="js/jquery-ui-1.8.7.custom.min.js"></script>
   <script src="js/jquery.slideto.min.js"></script>
-  <script>
-    $(function() {
-      $('#navmenu a').click(function(e) {
-        var href = $(e.currentTarget).attr('href');
-        /*
-        e.preventDefault();
-        */
-        $(href).slideto({
-          highlight: false,
-          slide_duration: 'slow'
-        });
-      });
-    });
-  </script>
+  <script src="js/libs/bootstrap-modal.js"></script>
 </head>
 <body class="{{page.frameclass}}">
+  <div class="modal hide fade" id="introvideo">
+    <iframe src="http://player.vimeo.com/video/17521812" width="562" height="390" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  </div>
+
   <div class="mitmachen">
     <a href="mitmachen.html"></a>
   </div>
@@ -87,7 +78,9 @@
          
       </div>
     </div>
-  </footer>
+ </footer>
+
+
 
   <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -103,6 +96,46 @@
     })();
   </script>
 
+  <script>
+    $(function() {
+      function createCookie(name,value,days) {
+        if (days) {
+          var date = new Date();
+          date.setTime(date.getTime()+(days*24*60*60*1000));
+          var expires = "; expires="+date.toGMTString();
+        }
+        else var expires = "";
+        document.cookie = name+"="+value+expires+"; path=/";
+      }
+
+      function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+          var c = ca[i];
+          while (c.charAt(0)==' ') c = c.substring(1,c.length);
+          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+      }
+
+      if (readCookie("hasVisitedBefore") == null){
+        $("#introvideo").modal({backdrop: true});
+      }
+      createCookie("hasVisitedBefore", "true");
+
+      $('#navmenu a').click(function(e) {
+        var href = $(e.currentTarget).attr('href');
+        /*
+        e.preventDefault();
+        */
+        $(href).slideto({
+          highlight: false,
+          slide_duration: 'slow'
+        });
+      });
+    });
+  </script>
 </body>
 </html>
 
