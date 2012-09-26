@@ -24,22 +24,18 @@
   <script src="js/libs/bootstrap-modal.js"></script>
 </head>
 <body class="{{page.frameclass}}">
-  <div class="modal hide fade" id="introvideo">
+<!--   <div class="modal hide fade" id="introvideo">
     <iframe src="http://player.vimeo.com/video/17521812" width="562" height="390" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-  </div>
+  </div> -->
 
-  <div class="mitmachen">
-    <a href="mitmachen.html"></a>
-  </div>
   <div id="header">
     <div class="container">
-      
       <div id="stanze">
-      <a href="/">
-        <img src="img/01_header.png" alt="Stadt Land Code - Digitale Werkzeuge für Bürger"/>
-      </a>
+        <a href="/">
+          <img src="img/01_header.png" alt="Stadt Land Code - Digitale Werkzeuge für Bürger"/>
+        </a>
+        <a class="mitmachen_button" href="mitmachen.html"></a>
       </div>
-      
     </div>
     <div class="line"></div>
   </div>
@@ -119,10 +115,10 @@
         return null;
       }
 
-      if (readCookie("hasVisitedBefore") == null){
-        $("#introvideo").modal({backdrop: true});
-      }
-      createCookie("hasVisitedBefore", "true");
+      // if (readCookie("hasVisitedBefore") == null){
+      //   $("#introvideo").modal({backdrop: true});
+      // }
+      // createCookie("hasVisitedBefore", "true");
 
       $('#navmenu a').click(function(e) {
         var href = $(e.currentTarget).attr('href');
