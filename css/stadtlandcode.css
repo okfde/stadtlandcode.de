@@ -230,6 +230,10 @@ p, li {
   width: 170px;
 }
 
+.social-footer {
+  text-align: right;
+}
+
 .social-footer a {
   text-decoration: none;
 }
