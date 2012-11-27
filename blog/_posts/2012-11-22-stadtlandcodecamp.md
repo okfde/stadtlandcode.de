@@ -7,7 +7,7 @@ snapshot: test.png
 
 Gesellschaftshacker Camp
 
-Am letzten Wochenende haben sich Entwicklerinnen und Coder zum gemeinsamen Arbeiten und Ideenaustausch auf dem Stadt Land <Code> Camp in der Heinrich Böll Stiftung getroffen. Beide Tage waren voll mit Input von Experten, Projektpräsentationen der TeilnehmerInnen, hands-on coding, Diskussionen und Einzelfeedback zu den Projekten.
+Am letzten Wochenende haben sich Entwicklerinnen und Coder zum gemeinsamen Arbeiten und Ideenaustausch auf dem Stadt Land &lt;Code&gt; Camp in der Heinrich Böll Stiftung getroffen. Beide Tage waren voll mit Input von Experten, Projektpräsentationen der TeilnehmerInnen, hands-on coding, Diskussionen und Einzelfeedback zu den Projekten.
 
 Als Vortragende und Experten waren Tony Bowden (mySociety, GB), Marianne Wulff (vitako), Mark Gayler (Microsoft), Marian Steinbach (Offenes Köln), Julian Kornberger (Selbstauskunft.net) und Richard Metzler (Pfandgeben.de) auf dem Camp zu Gast. Sie berichteten über ihre Erfahrungen mit Projekten im Bereich Civic Apps und gaben den Teilnehmern hilfreiche Tipps aus ihrer Praxis.
 
