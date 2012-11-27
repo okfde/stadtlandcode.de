@@ -15,3 +15,4 @@ Marianne Wulff berichtete davon, wie öffentliche Verwaltung aber auch ein Hobby
 
 Insgesamt waren elf der 59 eingereichten Projekte eingeladen, auf das Camp nach Berlin zu kommen und ihre Ideen und Konzepte in kurzen Pitches vorzustellen. Von Fahrradroutingsystemen, über Stadtplanung bis hin zu Leih- und Bewertungsportalen war ein breites Themenfeld an Civic App - Ideen vertreten. Aus den eingeladenen Einreichungen werden von einer Jury bis 6. Dezember die vier finalen Hackstipendiaten ausgewählt.
 Damit auch Außenstehende Einblick in die App-Ideen und Projekte bekommen können, werden sich die Entwickler/Teams sich und ihre Projekte auf diesem Blog kurz vorstellen. Die Entwicklung der vier geförderten Projekte wollen wir auf diesem Blog auch so transparent wie möglich vorantreiben und den Fortschritt dokumentieren.
+
