@@ -44,7 +44,7 @@ p, li {
   height: 320px;
 }
 
-.nojoin .mitmachen {
+.nojoin .blog {
   display: none;
 }
 
@@ -57,7 +57,7 @@ p, li {
   height: 180px;
 }
 
-.mitmachen a, .join-bar a {
+.blog a, .join-bar a {
 	background-image: url(../img/blog.png);
 	background-repeat: no-repeat;
   width: 290px;
