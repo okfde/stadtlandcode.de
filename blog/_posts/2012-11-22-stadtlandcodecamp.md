@@ -6,7 +6,7 @@ snapshot: camp.png
 ---
 
 Am letzten Wochenende haben sich Entwicklerinnen und Coder zum gemeinsamen Arbeiten und Ideenaustausch auf dem Stadt Land Code-Camp bei der Heinrich Böll-Stiftung in Berlin getroffen. 
-<img src="runde.png" alt="Teilnehmer">
+<img src="img/posts/runde.png" alt="Teilnehmer">
 Beide Tage waren voll mit Input von Experten, Projektpräsentationen der TeilnehmerInnen, hands-on coding, Diskussionen und Einzelfeedback zu den Projekten.
 Als Vortragende und Experten waren Tony Bowden (<a href="http://www.mysociety.org/">mySociety</a>, GB), Marianne Wulff (<a href="http://vitako.de/">Vitako</a>), Mark Gayler (Microsoft), Marian Steinbach (<a href="http://offeneskoeln.de/">Offenes Köln</a>), Julian Kornberger (<a href="https://selbstauskunft.net/">Selbstauskunft.net</a>) und Richard Metzler (<a href="http://www.pfandgeben.de/">Pfandgeben.de</a>) auf dem Camp zu Gast. 
 Sie berichteten über ihre Erfahrungen mit Projekten im Bereich Civic Apps und gaben den Teilnehmern hilfreiche Tipps aus ihrem Erfahrungsschatz.
