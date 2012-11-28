@@ -2,7 +2,7 @@
 layout: post
 author: Julia Kloiber
 title: Stadt Land Code Camp
-snapshot: test.png
+snapshot: runde.png
 ---
 
 Gesellschaftshacker Camp
