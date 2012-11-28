@@ -21,4 +21,4 @@ Von Fahrradroutingsystemen über Stadtplanung bis hin zu Leih- und Bewertungspor
 Damit auch Außenstehende Einblick in die App-Ideen und Projekte bekommen können, werden sich die Entwickler/Teams sich und ihre Projekte auf diesem Blog kurz vorstellen. 
 
 Zudem wollen wir den Fortschritt in der Entwicklung der vier geförderten Projekte auf diesem Blog so transparent wie möglich dokumentieren.
-
+Mehr Bilder vom Workshop findet ihr hier: <a href="http://www.flickr.com/photos/okfn/sets/72157632082036036/">Flickr</a>
