@@ -44,49 +44,44 @@ p, li {
   height: 320px;
 }
 
-.nojoin .blog {
-  display: none;
-}
 
-.blog {
-  position: absolute;
-  top: 0.5em;
-  right: 0.5em;
-  z-index: 1030;
-  width: 290px;
-  height: 180px;
-}
-
-.blog a, .join-bar a {
-	background-image: url(../img/blog.png);
-	background-repeat: no-repeat;
-  width: 290px;
-  height: 180px;
+.blog-link {
+  background-image: url(/img/blog.png);
+  background-repeat: no-repeat;
   display: inline-block;
-	/*text-indent: -99999px;*/
-	/*overflow: hidden;*/
+  text-indent: -99999px;
+  overflow: hidden;
   /*margin: auto;*/
+  position: absolute;
+  top: 0.7em;
+  right: 0.1em;
+  z-index: 1030;
+  width: 85px;
+  height: 69px;
 }
+
+.blog-link:hover {
+  background-image: url(/img/Blog_hover.png);
+}
+
 
 .join-bar a._05_02 {height:329px;width:440px;background-position:0 0;}
 .join-bar a._05_02:hover {height:329px;width:440px;background-position:0 -329px;}
 
-.mitmachen a {height:180px;width:282px;background-position:-440px -0px;}
-.mitmachen a:hover {height:180px;width:282px;background-position:-440px -329px;}
+.blog-link a {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.blog-link a:hover {
+
+}
 
 #stanze {
   position: relative;
 }
-.blog{
-	background-image:url(../img/blog.png);
-	background-repeat:no-repeat;
-	display:block;
-	text-indent:-99999px;
-	overflow:hidden;
-}
 
 .Blog_hover{height:69px;width:85px;background-position:0 0;}
-.blog{height:69px;width:85px;background-position:0 -69px;}
 
 
 #navmenu .container {
