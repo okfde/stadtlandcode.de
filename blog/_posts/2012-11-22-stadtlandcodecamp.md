@@ -1,11 +1,9 @@
 ---
 layout: post
 author: Julia Kloiber
-title: Stadt Land Code Camp
+title: Rückblick Gesellschaftshacker Camp
 snapshot: runde.png
 ---
-
-Gesellschaftshacker Camp
 
 Am letzten Wochenende haben sich Entwicklerinnen und Coder zum gemeinsamen Arbeiten und Ideenaustausch auf dem Stadt Land Code-Camp bei der Heinrich Böll-Stiftung in Berlin getroffen. 
 
