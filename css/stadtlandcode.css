@@ -78,7 +78,7 @@ p, li {
   position: relative;
 }
 .blog{
-	background-image:url(sprite.png?rand=1354113873);
+	background-image:url(../img/blog.png);
 	background-repeat:no-repeat;
 	display:block;
 	text-indent:-99999px;
