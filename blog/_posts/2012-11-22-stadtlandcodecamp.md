@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Julia Kloiber
-title: Rückblick Gesellschaftshacker Camp
+title: R&uuml;ckblick Gesellschaftshacker Camp
 snapshot: camp.png
 ---
 
