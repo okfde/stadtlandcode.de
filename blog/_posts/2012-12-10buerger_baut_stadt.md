@@ -29,7 +29,7 @@ Darüber hinaus können Interessierte Informationen zu ihrem Bezirk oder Kiez ab
 Neues tut, automatisch darüber informiert.  
 
 Wer sind wir? 
-Wir sind pinkoding und uns vereint die Überzeugung, dass gute Software nicht ohne Empathie für die 
+Wir sind <a href="http://mamanoke.de/pinkoding/">pinkoding</a> und uns vereint die Überzeugung, dass gute Software nicht ohne Empathie für die 
 zukünftigen Nutzer entwickelt werden kann. Joanna Maria Dauner: Studentin der Visuellen Kommunikation 
 in der Digitalen Klasse an der UdK Berlin,
 Magdalena Noffke: Politikwissenschaftlerin und Studentin des IT-Systems Engineerings am HPI und
