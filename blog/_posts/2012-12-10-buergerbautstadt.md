@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Julia Kloiber
-title: Bürger baut Stadt – Beteiligungsprozesse transparent gestalten
+title: Hackstipendien für Teikei, &lt;Bürger baut Stadt&gt; und Argufactum!
 published: true
 ---
 
@@ -35,5 +35,3 @@ in der Digitalen Klasse an der UdK Berlin,
 Magdalena Noffke: Politikwissenschaftlerin und Studentin des IT-Systems Engineerings am HPI und
 Claudia Müller-Birn: Wissenschaftlerin im Bereich Human-Centered Computing der FU Berlin. 
  
-
-
