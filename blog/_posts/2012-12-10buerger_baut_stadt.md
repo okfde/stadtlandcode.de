@@ -5,7 +5,7 @@ title: Bürger baut Stadt – Beteiligungsprozesse transparent gestalten
 published: true
 ---
 
-<div style="float: left; margin: 10px;"><img src="/img/posts/pokal.png"></div>
+<div style="float: left; margin: 10px;"><img src="/img/posts/buerger.png"></div>
 
 Ob A100 oder Stuttgart21 – beide Fälle zeigen, dass Bürger in die Planung großer staatlicher Bauvorhaben eingebunden 
 werden wollen. Aber auch bei kleinen Projekten sind die Bürger daran interessiert, über geplante Bauvorhaben in ihrem
