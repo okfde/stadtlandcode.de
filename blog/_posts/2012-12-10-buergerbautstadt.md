@@ -6,7 +6,6 @@ snapshot: buerger.png
 published: true
 ---
 
-![BuergerbautStadt](/img/posts/buerger.png)
 
 Ob A100 oder Stuttgart21 – beide Fälle zeigen, dass Bürger in die Planung großer staatlicher Bauvorhaben eingebunden 
 werden wollen. Aber auch bei kleinen Projekten sind die Bürger daran interessiert, über geplante Bauvorhaben in ihrem
