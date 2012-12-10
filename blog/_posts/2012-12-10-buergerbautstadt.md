@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Julia Kloiber
-title: Hackstipendien für Teikei, &lt;Bürger baut Stadt&gt; und Argufactum!
+title: Bürger baut Stadt – Beteiligungsprozesse transparent gestalten
 published: true
 ---
 
