@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Julia Kloiber
+author: Magdalena Noffke
 title: Bürger baut Stadt – Beteiligungsprozesse transparent gestalten
 snapshot: buerger.png
 published: true
