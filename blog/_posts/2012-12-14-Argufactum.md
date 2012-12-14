@@ -19,12 +19,14 @@ zustimmt.
 
 Da dies nicht nur bei Stuttgart 21 ein Problem ist, entstand die
 Motivation, mit Hilfe einer Webanwendung zu versuchen ...
-- das Treffen einer fundierten Entscheidung effektiver und einfacher zu
-gestalten
-- sachlichere Diskussionen zu fördern
-- eine Historie über Änderungen an der Faktenlage zu schaffen
-- aufzuzeigen, auf welchen Annahmen / Grundlagen eine bereits getroffene
-Entscheidung basierte
+<ul>
+<li> das Treffen einer fundierten Entscheidung effektiver und einfacher zu
+gestalten</li>
+<li> sachlichere Diskussionen zu fördern</li>
+<li> eine Historie über Änderungen an der Faktenlage zu schaffen</li>
+<li> aufzuzeigen, auf welchen Annahmen / Grundlagen eine bereits getroffene
+Entscheidung basierte</li>
+</ul>
 
 Auf Grundlage dieser Ziele ist bereits ein erster <a href="http://argufactum.de">Prototyp</a>
 entstanden, der aktuell ermöglicht, gemeinsam mit anderen Pro- und Contra Argumente zu 
