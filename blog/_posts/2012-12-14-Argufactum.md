@@ -19,6 +19,7 @@ zustimmt.
 
 Da dies nicht nur bei Stuttgart 21 ein Problem ist, entstand die
 Motivation, mit Hilfe einer Webanwendung zu versuchen ...
+
 - das Treffen einer fundierten Entscheidung effektiver und einfacher zu
 gestalten
 - sachlichere Diskussionen zu fördern
