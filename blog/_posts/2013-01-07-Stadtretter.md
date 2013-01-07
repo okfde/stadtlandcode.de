@@ -28,5 +28,5 @@ hervorzuheben, indem nutzer diesen "Karma spenden" oder ähnliches. Für
 Anregungen und Kritik bin ich natürlich
 gerne offen.
 
-Die App findet sich unter www.stadtretter.net und der Code natürlich auf
-github: https://github.com/k-nut/stadtretter.
+Die App findet sich unter <a href="http://www.stadtretter.net/">www.stadtretter.net</a> und der Code natürlich auf
+github: <a href="https://github.com/k-nut/stadtretter">https://github.com/k-nut/stadtretter</a> .
