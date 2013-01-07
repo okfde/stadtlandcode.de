@@ -17,6 +17,8 @@ jemandem etwas gutes
 getan haben oder wo sie gelebte Hilfsbereitschaft beobachten konnten.
 Das gibt uns die Möglichkeit zu zeigen, dass es doch noch nette
 Busfahrer, Jugendliche und Beamte gibt.
+
+
 Die Kernidee ist es, das Projekt so einfach wie möglich zu halten. Die
 Nutzer können einfach die Seite besuchen
 und eine Aktion hinzufügen. Das funktioniert natürlich auch unterwegs,
