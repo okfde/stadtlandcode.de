@@ -12,10 +12,28 @@ frameclass: join
       <li class="SLC b_03"><a href="#whatwewant">Was wir suchen</a></li>
       <li class="SLC b_04"><a href="#whatweoffer">Was wir bieten</a></li>
       <li class="SLC b_05"><a href="#timeline">Ablauf</a></li>
-      <li class="SLC b_06"><a href="#faq">FAQ</a></li>
+      <li class="SLC b_06"><a href="/blog">Blog</a></li>
     </ul>
   </div>
   <div class="line"></div>
+</div>
+
+<div class="section-title">
+  <a id="blog" name="blog"><img alt="Blog" src="img/06_blog.png" /></a>
+</div>
+
+<div class="container">
+  {% for post in site.posts limit:1 %}
+    <h2>{{ post.title }}</h2>
+    {% if post.snapshot %}
+      <div class="snapshot">
+        <a href="{{ post.url }}"><img src="/img/posts/{{ post.snapshot }}"></a>
+      </div>
+    {% endif %}
+    <div class="post">
+      {{ post.content | strip_html | truncatewords: 40 }}
+    </div>
+  {% endfor %}
 </div>
 
 <div class="section-title">
