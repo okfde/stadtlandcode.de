@@ -152,9 +152,11 @@ p, li {
 .b_04:hover{height:46px;width:195px;background-position:0 -273px;}
 .b_05{height:46px;width:139px;background-position:-203px -182px;}
 .b_05:hover{height:46px;width:139px;background-position:-203px -228px;}
-.b_06{height:43px;width:73px;background-position:-190px -47px;}
+.b_06{height:43px;width:73px;background-position:-190px -47px;line-height:18px;}
 .b_06:hover{height:43px;width:73px;background-position:-263px -47px;}
-
+.b_06 a{
+	padding-left:6px;
+}
 
 .section-title {
   background-image: url(../img/linie_rot.png);
