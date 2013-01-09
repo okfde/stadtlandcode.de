@@ -23,8 +23,9 @@ frameclass: join
 </div>
 
 <div class="container">
+  <div class="span9 offset1">
   {% for post in site.posts limit:1 %}
-    <h2>{{ post.title }}</h2>
+    <h2 style="text-align:center">{{ post.title }}</h2>
     {% if post.snapshot %}
       <div class="snapshot">
         <a href="{{ post.url }}"><img src="/img/posts/{{ post.snapshot }}"></a>
@@ -38,10 +39,12 @@ frameclass: join
         </div>
   {% endfor %}
 </div>
+</div>
 
 <div class="section-title">
   <a id="mission" name="mission"><img alt="Die Mission" src="/img/02_mission.png"></a>
 </div>
+
 
 <div class="container">
   <div class="row message">
