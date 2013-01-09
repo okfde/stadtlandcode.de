@@ -33,6 +33,9 @@ frameclass: join
     <div class="post">
       {{ post.content | strip_html | truncatewords: 40 }}
     </div>
+       <div class="more">
+          <a href="{{ post.url }}" title="Mehr lesen">Mehr lesen...</a>
+        </div>
   {% endfor %}
 </div>
 
