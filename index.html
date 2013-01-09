@@ -19,6 +19,24 @@ frameclass: join
 </div>
 
 <div class="section-title">
+  <a id="blog" name="blog"><img alt="Blog" src="img/06_blog.png" /></a>
+</div>
+
+<div class="container">
+  {% for post in site.posts limit:1 %}
+    <h2>{{ post.title }}</h2>
+    {% if post.snapshot %}
+      <div class="snapshot">
+        <a href="{{ post.url }}"><img src="/img/posts/{{ post.snapshot }}"></a>
+      </div>
+    {% endif %}
+    <div class="post">
+      {{ post.content | strip_html | truncatewords: 40 }}
+    </div>
+  {% endfor %}
+</div>
+
+<div class="section-title">
   <a id="mission" name="mission"><img alt="Die Mission" src="/img/02_mission.png"></a>
 </div>
 
