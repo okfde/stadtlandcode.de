@@ -23,6 +23,10 @@ p, li {
   padding-left: 238px;
 }*/
 
+#header img {
+  max-width: 100%;
+}
+
 
 #navmenu {
   background-color: white;
@@ -105,8 +109,7 @@ p, li {
 
 #navmenu ul {
   list-style-type: none;
-  height: 47px;
-  margin: 5px 0 5px 0;
+  margin: 5px 0 2px 0;
   display: block;
 }
 
