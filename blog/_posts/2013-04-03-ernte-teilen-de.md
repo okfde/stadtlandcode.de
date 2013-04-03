@@ -13,7 +13,7 @@ In den letzten Wochen haben wir angefangen intensiven Kontakt zu den späteren N
 
 Anfang März waren wir beim Frühjahrstreffen des Netzwerks mit dabei. Auf [Schloss Tempelhof in Kreßberg](http://www.schloss-tempelhof.de "Webseite Schloss Tempelhof") war große Motivation vorhanden, gemeinsam die Bewegung Solidarische Landwirtschaft voranzubringen.
 
-Das Treffen bot viel Raum, um Erfahrungen auszutauschen, sich gegenseitig Impulse zu geben und Kontakte zu knüpfen. Ein großes Interesse bestand an Themen wie Kommunikation und Vernetzung. Für uns bot das Treffen vor allem die Möglichkeit, die Web-Plattform "Ernte teilen" mit Praktikern diskutieren und wertvolle Meinungen einholen.
+Das Treffen bot viel Raum, um Erfahrungen auszutauschen, sich gegenseitig Impulse zu geben und Kontakte zu knüpfen. Ein großes Interesse bestand an Themen wie Kommunikation und Vernetzung. Für uns bot das Treffen vor allem die Möglichkeit, die Web-Plattform "Ernte teilen" mit Praktikern zu diskutieren und wertvolle Meinungen einzuholen.
 
 ## Stand der Entwicklung
 In den vergangenen Wochen haben wir einen funktionalen Prototypen der Anwendung entwickelt.
