@@ -7,7 +7,7 @@ published: true
 
 In unserem Projekt hat sich einiges getan. Das Wichtigste zuerst: Die Plattform, an der wir unter dem Arbeitstitel "Teikei" arbeiten, wird ab Mitte April unter der Domain "ernte-teilen.org" erreichbar sein.
 
-In den letzten Wochen haben wir angefangen intensiven Kontakt zu den späteren Nutzern der Plattform aufzubauen. Unter anderem wurde der Grundstein für eine freundschaftliche Zusammenarbeit mit dem [Netzwerk Solidarische Landwirtschaft](http://www.solidarische-landwirtschaft.org "Webseite Netzwerk Solidarische Landwirtschaft") gelegt. Das Netzwerk versteht sich als Dachorganisation der Akteure der Solidarischen Landwirtschaft und ist deshalb ein wichtiger Partner für uns.
+In den letzten Wochen haben wir angefangen, intensiven Kontakt zu den späteren Nutzern der Plattform aufzubauen. Unter anderem wurde der Grundstein für eine freundschaftliche Zusammenarbeit mit dem [Netzwerk Solidarische Landwirtschaft](http://www.solidarische-landwirtschaft.org "Webseite Netzwerk Solidarische Landwirtschaft") gelegt. Das Netzwerk versteht sich als Dachorganisation der Akteure der Solidarischen Landwirtschaft und ist deshalb ein wichtiger Partner für uns.
 
 ## Frühjahrstreffen des Netzwerks Solidarische Landwirtschaft
 
@@ -23,4 +23,4 @@ In den vergangenen Wochen haben wir einen funktionalen Prototypen der Anwendung 
 Während der bisherige Schwerpunkt der Entwicklung auf der Umsetzung der grundlegenden Funktionalität der Anwendung lag, befassen wir uns nun stärker mit der visuellen Gestaltung und der Benutzerführung. Ein besonders interessantes Thema ist dabei die Visualisierung der Netzwerke zwischen Höfen und Verbrauchergruppen.
 
 ## Ausblick auf die nächsten Wochen
-Mitte April wird es soweit sein, die Plattform für Nutzer im Raum Berlin/Brandenburg zu öffnen. Solidarhöfe, Verbrauchergruppen und Initiativen sind herzlich eingeladen an der Testphase im April teilzunehmen. Ein bundesweiter Start ist für Mai geplant.
+Mitte April wird es soweit sein, die Plattform für Nutzer im Raum Berlin/Brandenburg zu öffnen. Solidarhöfe, Verbrauchergruppen und Initiativen sind herzlich eingeladen, an der Testphase im April teilzunehmen. Ein bundesweiter Start ist für Mai geplant.
