@@ -6,4 +6,4 @@ snapshot: ankuendigung.jpg
 published: true
 ---
 
-<img src="ankuendigung.jpg" alt="Ankuendigung">
+<img src="ankuendigung.jpg">
