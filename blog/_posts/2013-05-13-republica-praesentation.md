@@ -6,7 +6,6 @@ published: true
 
 ---
 
-# Präsentation der Stadt Land &lt;Code&gt; Gewinner auf der re:publica
 
 Am dritten Tag der re:publica 2013 stellten sich unsere drei Gewinnerprojekte vor. Ausführlich berichteten sie uns vom Stand ihrer Projekte.
 
