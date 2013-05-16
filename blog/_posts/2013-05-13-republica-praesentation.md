@@ -9,6 +9,8 @@ published: true
 
 Am dritten Tag der re:publica 2013 stellten sich unsere drei Gewinnerprojekte vor. Ausführlich berichteten sie uns vom Stand ihrer Projekte.
 
+![StadtLandCode: Teilnehmer und Sponsoren](/img/SLC_republica2013.jpg)
+
 Hier ein kurzer Überblick:
 
 ## Ernte Teilen
