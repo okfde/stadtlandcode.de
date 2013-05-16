@@ -3,13 +3,12 @@ layout: post
 author: Martin Koll
 title: Präsentation der Stadt Land &lt;Code&gt; Gewinner auf der re:publica
 published: true
-
 ---
 
 
 Am dritten Tag der re:publica 2013 stellten sich unsere drei Gewinnerprojekte vor. Ausführlich berichteten sie uns vom Stand ihrer Projekte.
 
-![StadtLandCode: Teilnehmer und Sponsoren](/img/SLC_republica2013.jpg)
+<img src="/img/SLC_republica2013.jpg" alt="StadtLandCode: Teilnehmer und Sponsoren" width="700" />
 
 Hier ein kurzer Überblick:
 
