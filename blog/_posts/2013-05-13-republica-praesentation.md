@@ -2,6 +2,7 @@
 layout: post
 author: Martin Koll
 title: Präsentation der Stadt Land &lt;Code&gt; Gewinner auf der re:publica
+napshot: slc.png
 published: true
 ---
 
