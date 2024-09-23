@@ -19,7 +19,7 @@ p, li {
 }
 
 /*#header .container {
-  width: 1178px; 
+  width: 1178px;
   padding-left: 238px;
 }*/
 
@@ -282,4 +282,15 @@ footer {
 
 .post-title {
   margin:25px 0;
+}
+
+.banner {
+  padding: 30px 30px;
+  font-size: 1.3rem;
+  background-color: white;
+}
+
+.banner__content {
+  border-left: 4px solid rgb(255, 106, 82);
+  padding-left: 8px;
 }
